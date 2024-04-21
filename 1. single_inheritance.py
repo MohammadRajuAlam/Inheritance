@@ -1,4 +1,5 @@
 # Single inheritance
+#Something new
 class Mobile:
     location="Bangalore"
     pincode=560029
